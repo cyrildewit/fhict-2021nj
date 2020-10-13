@@ -1,0 +1,13 @@
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\bin\Debug\netcoreapp3.1\PalindomeChecker.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\bin\Debug\netcoreapp3.1\PalindomeChecker.deps.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\bin\Debug\netcoreapp3.1\PalindomeChecker.runtimeconfig.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\bin\Debug\netcoreapp3.1\PalindomeChecker.runtimeconfig.dev.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\bin\Debug\netcoreapp3.1\PalindomeChecker.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\bin\Debug\netcoreapp3.1\PalindomeChecker.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.csprojAssemblyReference.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.AssemblyInfoInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.AssemblyInfo.cs
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\3.Training-Methode-ElkaarAchterstevoren\PalindomeChecker\PalindomeChecker\obj\Debug\netcoreapp3.1\PalindomeChecker.genruntimeconfig.cache

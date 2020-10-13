@@ -1,0 +1,10 @@
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\KingAndChess.csprojAssemblyReference.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\KingAndChess.csproj.GenerateResource.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\KingAndChess.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\9.KingAndChessTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,13 @@
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\bin\Debug\netcoreapp3.1\DigitsToWordsReplacer.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\bin\Debug\netcoreapp3.1\DigitsToWordsReplacer.deps.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\bin\Debug\netcoreapp3.1\DigitsToWordsReplacer.runtimeconfig.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\bin\Debug\netcoreapp3.1\DigitsToWordsReplacer.runtimeconfig.dev.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\bin\Debug\netcoreapp3.1\DigitsToWordsReplacer.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\bin\Debug\netcoreapp3.1\DigitsToWordsReplacer.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.csprojAssemblyReference.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.AssemblyInfoInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.AssemblyInfo.cs
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\4.Training-Methode-Cijfers-Naar-Woorden\DigitsToWordsReplacer\obj\Debug\netcoreapp3.1\DigitsToWordsReplacer.genruntimeconfig.cache

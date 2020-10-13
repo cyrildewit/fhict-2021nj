@@ -1,0 +1,10 @@
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\6.Training-Rock-Paper-Scissors\RockPaperScissors\obj\Debug\RockPaperScissors.HomeScreen.resources

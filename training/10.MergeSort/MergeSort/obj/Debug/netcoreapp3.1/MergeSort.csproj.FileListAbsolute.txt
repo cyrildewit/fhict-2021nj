@@ -1,0 +1,13 @@
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\10.MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache

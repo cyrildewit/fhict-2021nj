@@ -1,0 +1,13 @@
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.exe
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.deps.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.runtimeconfig.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.runtimeconfig.dev.json
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.csprojAssemblyReference.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.AssemblyInfoInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.AssemblyInfo.cs
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.dll
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.pdb
+D:\Workspace\Code\FHICT\P-DB-SOFT-P-DB18\1. Oriëntatie\Deelproducten\training\7.Training-Christmas-Tree-Generator\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.genruntimeconfig.cache
