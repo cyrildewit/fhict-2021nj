@@ -10,7 +10,7 @@ namespace BloedPressureApp
     public class TimeSlotModel
     {
         public int Id { get; set; }
-        public int RoomId { get; set; }
+        public int Roomid { get; set; }
         public string Datetime { get; set; }
         public string Timeslot { get; set; }
         public bool Booked { get; set; }

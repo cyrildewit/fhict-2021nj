@@ -259,6 +259,7 @@
             this.buttonReserveRoom2.TabIndex = 21;
             this.buttonReserveRoom2.Text = "Reserveren";
             this.buttonReserveRoom2.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom2.Click += new System.EventHandler(this.buttonReserveRoom2_Click);
             // 
             // buttonReserveRoom3
             // 
@@ -268,6 +269,7 @@
             this.buttonReserveRoom3.TabIndex = 22;
             this.buttonReserveRoom3.Text = "Reserveren";
             this.buttonReserveRoom3.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom3.Click += new System.EventHandler(this.buttonReserveRoom3_Click);
             // 
             // buttonReserveRoom4
             // 
@@ -277,6 +279,7 @@
             this.buttonReserveRoom4.TabIndex = 23;
             this.buttonReserveRoom4.Text = "Reserveren";
             this.buttonReserveRoom4.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom4.Click += new System.EventHandler(this.buttonReserveRoom4_Click);
             // 
             // buttonReserveRoom5
             // 
@@ -286,6 +289,7 @@
             this.buttonReserveRoom5.TabIndex = 24;
             this.buttonReserveRoom5.Text = "Reserveren";
             this.buttonReserveRoom5.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom5.Click += new System.EventHandler(this.buttonReserveRoom5_Click);
             // 
             // buttonReserveRoom6
             // 
@@ -295,6 +299,7 @@
             this.buttonReserveRoom6.TabIndex = 25;
             this.buttonReserveRoom6.Text = "Reserveren";
             this.buttonReserveRoom6.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom6.Click += new System.EventHandler(this.buttonReserveRoom6_Click);
             // 
             // buttonReserveRoom7
             // 
@@ -304,6 +309,7 @@
             this.buttonReserveRoom7.TabIndex = 26;
             this.buttonReserveRoom7.Text = "Reserveren";
             this.buttonReserveRoom7.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom7.Click += new System.EventHandler(this.buttonReserveRoom7_Click);
             // 
             // buttonReserveRoom8
             // 
@@ -313,6 +319,7 @@
             this.buttonReserveRoom8.TabIndex = 27;
             this.buttonReserveRoom8.Text = "Reserveren";
             this.buttonReserveRoom8.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom8.Click += new System.EventHandler(this.buttonReserveRoom8_Click);
             // 
             // buttonReserveRoom9
             // 
@@ -322,6 +329,7 @@
             this.buttonReserveRoom9.TabIndex = 28;
             this.buttonReserveRoom9.Text = "Reserveren";
             this.buttonReserveRoom9.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom9.Click += new System.EventHandler(this.buttonReserveRoom9_Click);
             // 
             // buttonReserveRoom10
             // 
@@ -331,6 +339,7 @@
             this.buttonReserveRoom10.TabIndex = 29;
             this.buttonReserveRoom10.Text = "Reserveren";
             this.buttonReserveRoom10.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom10.Click += new System.EventHandler(this.buttonReserveRoom10_Click);
             // 
             // buttonReserveRoom11
             // 
@@ -340,6 +349,7 @@
             this.buttonReserveRoom11.TabIndex = 30;
             this.buttonReserveRoom11.Text = "Reserveren";
             this.buttonReserveRoom11.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom11.Click += new System.EventHandler(this.buttonReserveRoom11_Click);
             // 
             // buttonReserveRoom12
             // 
@@ -349,6 +359,7 @@
             this.buttonReserveRoom12.TabIndex = 31;
             this.buttonReserveRoom12.Text = "Reserveren";
             this.buttonReserveRoom12.UseVisualStyleBackColor = true;
+            this.buttonReserveRoom12.Click += new System.EventHandler(this.buttonReserveRoom12_Click);
             // 
             // label1
             // 

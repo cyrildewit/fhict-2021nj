@@ -12,19 +12,29 @@ namespace BloedPressureApp
 {
     public class SqliteDataAccess
     {
-        public static List<TimeSlotModel> LoadTimeSlots(string dateTime)
+        public static List<TimeSlotModel> LoadTimeSlots(string dateTime, string timeSlot)
         {
             using IDbConnection cnn = new SQLiteConnection(LoadConnectionString());
-            string q = string.Concat("SELECT * FROM time_slots WHERE datetime ='", dateTime, "';");
+            string q = string.Concat("SELECT * FROM time_slots WHERE datetime ='", dateTime, "' AND timeslot='", timeSlot, "';");
             var output = cnn.Query<TimeSlotModel>(q);
 
             return output.ToList();
         }
 
+        public static void BookTimeSlot(TimeSlotModel timeSlot)
+        {
+            List<TimeSlotModel> list = LoadTimeSlots(timeSlot.Datetime, timeSlot.Timeslot);
+
+            if (list.Count > 0) {
+                using IDbConnection cnn = new SQLiteConnection(LoadConnectionString());
+                cnn.Execute("INSERT into time_slots (roomid, datetime, timeslot, booked) values (@RoomId, @Datetime, @Timeslot, @Booked)", timeSlot);
+            }
+        }
+
         public static void UpdateTimeSlot(TimeSlotModel timeSlot)
         {
             using IDbConnection cnn = new SQLiteConnection(LoadConnectionString());
-            string q = string.Concat("UPDATE time_slots SET room_id = '", timeSlot.RoomId, "', datetime ='", timeSlot.Datetime, "', timeslot='", timeSlot.Timeslot, "', booked='", timeSlot.Booked, "' WHERE id =", timeSlot.Id.ToString(), ";");
+            string q = string.Concat("UPDATE time_slots SET roomid = '", timeSlot.Roomid, "', datetime ='", timeSlot.Datetime, "', timeslot='", timeSlot.Timeslot, "', booked='", timeSlot.Booked, "' WHERE id =", timeSlot.Id.ToString(), ";");
             cnn.Execute(q, timeSlot);
         }
 
