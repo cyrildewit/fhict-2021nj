@@ -67,28 +67,26 @@ void loop()
   if (buttonRead(buttonPin)) {
     ledIsOn = !ledIsOn;
 
-    Serial.println("Yepp");
-
     waitFor(50, timeNow);
   }
 
-  // if (ledIsOn)
-  // {
-  //   for (int i = 0; i < 255; i++) {
-  //     analogWrite(redLightPin, i);
-  //     waitFor(30, timeNow);
-  //   }
+  if (ledIsOn)
+  {
+    for (int i = 0; i < 255; i++) {
+      analogWrite(redLightPin, i);
+      waitFor(30, timeNow);
+    }
 
-  //   for (int i = 255; i > 0; i--)
-  //   {
-  //     analogWrite(redLightPin, i);
-  //     waitFor(30, timeNow);
-  //   }
-  // }
-  // else
-  // {
-  //   apply_RGB_color(colorOff);
-  // }
+    for (int i = 255; i > 0; i--)
+    {
+      analogWrite(redLightPin, i);
+      waitFor(30, timeNow);
+    }
+  }
+  else
+  {
+    apply_RGB_color(colorOff);
+  }
 
   lastButtonState = buttonState;
 }

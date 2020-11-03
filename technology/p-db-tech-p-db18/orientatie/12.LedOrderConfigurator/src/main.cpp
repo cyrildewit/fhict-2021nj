@@ -69,7 +69,6 @@ void loop()
     }
   }
 
-
   if (currentIndex >= lengthOfPairs) {
     for (int i = 0; i < lengthOfPairs; i++) {
       int ledIndex = ledSequence[i];

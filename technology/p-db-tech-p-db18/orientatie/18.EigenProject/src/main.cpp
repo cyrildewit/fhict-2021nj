@@ -53,7 +53,10 @@ void printSensorData()
   lcd.print("%");
 
   Serial.println("Temp = ");
-  Serial.print(temperature);
+  Serial.println(temperature);
+
+  Serial.println("Humidity = ");
+  Serial.println(humidity);
 }
 
 void setup()
