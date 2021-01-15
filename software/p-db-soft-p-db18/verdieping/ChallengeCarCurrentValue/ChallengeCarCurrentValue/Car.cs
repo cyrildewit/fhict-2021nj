@@ -9,13 +9,11 @@ namespace ChallengeCarCurrentValue
     class Car
     {
         private MotorFuelType fuelType;
-        private int mileAge = 1;
+        private int mileAge;
         private readonly string licensePlate;
 
         private readonly MotorFuelTypeDescriptor fuelTypeDescription = new MotorFuelTypeDescriptor();
         private readonly MotorFuelTypeFactorization fuelTypeFactors = new MotorFuelTypeFactorization();
-
-        
 
         public int MileAge {
             get { return mileAge; }

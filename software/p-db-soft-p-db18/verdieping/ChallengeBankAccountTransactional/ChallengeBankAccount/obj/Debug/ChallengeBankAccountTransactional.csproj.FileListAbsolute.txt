@@ -1,0 +1,10 @@
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\bin\Debug\ChallengeBankAccount.exe.config
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\bin\Debug\ChallengeBankAccount.exe
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\bin\Debug\ChallengeBankAccount.pdb
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccountTransactional.csprojAssemblyReference.cache
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccount.BankAccountForm.resources
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccount.Properties.Resources.resources
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccountTransactional.csproj.GenerateResource.cache
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccountTransactional.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccount.exe
+D:\Workspace\Code\GitHub\fhict-2021nj\software\p-db-soft-p-db18\verdieping\ChallengeBankAccountTransactional\ChallengeBankAccount\obj\Debug\ChallengeBankAccount.pdb
